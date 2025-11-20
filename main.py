@@ -3,7 +3,7 @@ radius = int(input(("enter the value of radius: ")))
 pi = 3.1416
 
 circle_area = pi * radius ** 2  
-print("Circle Area is: " + str(circle_area) + " square centimeter.")
+print("Circle Area is: " + str(circle_area) + " square units.")
 
 print("  ")
 print("This is the expression solver for (a-b)+(a*b)")
